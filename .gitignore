@@ -25,3 +25,5 @@ docs/
 
 # Backup files
 *~
+data/__internal
+gamecontrollerdb.txt
